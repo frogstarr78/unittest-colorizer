@@ -6,7 +6,7 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "unittest-colorizer"
     gem.summary = %Q{Colored output in my unit tests.}
-    gem.description = %Q{ Colored output for unit tests.}
+    gem.description = %Q{Colored output for unit tests.}
     gem.email = "frogstarr78@gmail.com"
     gem.homepage = "http://github.com/frogstarr78/unittest-colorizer"
     gem.authors = ["Scott Noel-Hemming"]

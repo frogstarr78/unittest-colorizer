@@ -1,6 +1,8 @@
 = unittest-colorizer
 
-Description goes here.
+Colored output for unit tests.
+I am tired of wanting to do this in every one of my different projects.
+Plus I'm trying to have it conform to the principle of do one thing well.
 
 == Note on Patches/Pull Requests
  
