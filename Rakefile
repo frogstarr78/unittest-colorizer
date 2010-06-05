@@ -10,7 +10,9 @@ begin
     gem.email = "frogstarr78@gmail.com"
     gem.homepage = "http://github.com/frogstarr78/unittest-colorizer"
     gem.authors = ["Scott Noel-Hemming"]
-    gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
+    gem.add_development_dependency "shoulda", ">= 0"
+    gem.add_development_dependency "mocha", ">= 0"
+    gem.add_dependency "colored", ">= 0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new
